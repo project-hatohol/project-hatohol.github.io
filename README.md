@@ -1,4 +1,4 @@
 project-hatohol.github.io
 =========================
 
-Web page of Project hatohol.
+This is yum repository managed by Project Hatohol.
