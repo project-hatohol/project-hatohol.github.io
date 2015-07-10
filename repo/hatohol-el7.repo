@@ -1,5 +1,5 @@
 [hatohol]
 name=Hatohol
-baseurl=http://project-hatohol.github.io/repo/$basearch
+baseurl=http://project-hatohol.github.io/repo/el7/$basearch
 enabled=1
 gpgcheck=0

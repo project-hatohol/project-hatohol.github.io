@@ -1,5 +1,0 @@
-[hatohol]
-name=Hatohol
-baseurl=http://project-hatohol.github.io/repo/$basearch
-enabled=1
-gpgcheck=0
